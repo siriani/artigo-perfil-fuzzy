@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# secrets — NUNCA versionar
+.env
+*.key
+
+# saídas regeneráveis
+data/raw/
+results/
+*.pdf
+
+# manuscrito e notas de redação — repositório público é só o código
+/paper/
+/docs/
+
+# macOS
+.DS_Store
