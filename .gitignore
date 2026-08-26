@@ -18,3 +18,7 @@ results/
 
 # macOS
 .DS_Store
+
+# repo privado do manuscrito
+/.paper.git/
+/paper-git
